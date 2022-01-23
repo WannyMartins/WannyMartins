@@ -1,6 +1,6 @@
 ### Olá!!! Eu sou Wanny Martins!!!
 
- 🔭 Atualmente estudando Desenvolvimento de Software e Websites na Trybe!
+ 🔭 Atualmente estudante da Trybe em  Desenvolvimento de Software (Full Stack)!
 <div align="center">
   <a href="https://github.com/WannyMartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WannyMartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
