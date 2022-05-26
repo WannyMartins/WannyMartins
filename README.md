@@ -1,20 +1,44 @@
 ### Olá!!! Eu sou Wanny Martins!!!
 
- 🔭 Atualmente estudante da Trybe em  Desenvolvimento de Software (Full Stack)!
-<div align="rigth">
+ 🔭 Atualmente estudante da Trybe em Desenvolvimento de Software (Full Stack)!<br>
+ :ledger: O que já Aprendi:<br>
+   :arrow_right: Git e Github<br>
+   :arrow_right: HTML<br>
+   :arrow_right: CSS<br>
+   :arrow_right: Flexbox<br>
+   :arrow_right: Responsividade, Mobile First<br>
+   :arrow_right: Bootstrap<br>
+   :arrow_right: Javascript<br>
+   :arrow_right: HOF's<br>
+   :arrow_right: Jest, Testes Unitários e Assíncronos<br>
+   :arrow_right: React, Componetes de Classes e Funcionais<br>
+   :arrow_right: Redux<br>
+   :arrow_right: Context Api<br>
+   :arrow_right: Hooks<br>
+   :arrow_right: Metodologias Ágeis<br>
+   :arrow_right: Testes Automatizados com RTL<br>
+   :arrow_right: Docker<br>
+   :arrow_right: MySQL<br>
+ 
+ <div align="rigth">
   <a href="https://github.com/WannyMartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WannyMartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WannyMartins&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block" ><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <!--<img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div-->
+   <img align="center" alt="Github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40">
+   <img align="center" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40">
+   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+   <img align="center" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="30" width="40">
+   <img align="center" alt="Java Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Jest" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" height="30" width="40">
+   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+   <img align="center" alt="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="30" width="40">
+   <img align="center" alt="RTL" src="https://testing-library.com/img/octopus-64x64.png" height="30" width="40">
+   <img align="center" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="30" width="40">
+   <img align="center" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30" width="40">
+ 
+ </div>
       <img align="right" alt="Meu Gif" height="150" style="border-radius:50px;" src="https://i.imgur.com/uxlL7qC.gif">
       
   ##
