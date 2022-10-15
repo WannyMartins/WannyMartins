@@ -15,14 +15,29 @@
    :arrow_right: Redux<br>
    :arrow_right: Context Api<br>
    :arrow_right: Hooks<br>
-   :arrow_right: Metodologias Ágeis<br>
+   :arrow_right: Metodologias Ágeis: Kanbam, Scrum<br>
    :arrow_right: Testes Automatizados com RTL<br>
    :arrow_right: Docker<br>
    :arrow_right: MySQL<br>
+   :arrow_right: Node.Js<br>
+   :arrow_right: Express<br>
+   :arrow_right: ORM - Sequelize<br>
+   :arrow_right: Arquitetura MSC<br>
+   :arrow_right: MongoDB<br>
+   :arrow_right: Mongoose<br>
+   :arrow_right: TypeScript<br>
+   :arrow_right: POO<br>
+   :arrow_right: SOLID<br>
+   :arrow_right: Mocha<br>
+   :arrow_right: Chai<br>
+   :arrow_right: Sinon<br>
+   :arrow_right: Deployment: Heroku<br>
+   :arrow_right: VPS<br>
+   :arrow_right: CI/CD<br>
  __________________
  <br>
  <div>  
-  <a href = "mailto:wcatery@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:wcatery@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wannymartins/?lipi=urn%3Ali%3Apage%3Aprofile_common_profile_index%3B51bb29a9-9dbc-4c00-9663-b1fb3de21360" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    </div>
    <br>
@@ -43,15 +58,23 @@
    <img align="center" alt="RTL" src="https://testing-library.com/img/octopus-64x64.png" height="30" width="40">
    <img align="center" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="30" width="40">
    <img align="center" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30" width="40">
- 
+   <img align="center" alt="Node.Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" width="40">
+   <img align="center" alt="Express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="30" width="40">
+   <img align="center" alt="Express" src="https://github.com/devicons/devicon/raw/master/icons/sequelize/sequelize-original.svg" height="30" width="40">
+    <img align="center" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="30" width="40">
+    <img align="center" alt="Typescript" src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" height="30" width="40">
+    <img align="center" alt="Mocha" src="https://github.com/devicons/devicon/raw/master/icons/mocha/mocha-plain.svg" height="30" width="40">
+     <img align="center" alt="Heroku" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" height="30" width="40">
  </div>
-   <img align="right" alt="Meu Gif" height="150" style="border-radius:50px;" src="https://i.imgur.com/uxlL7qC.gif">
+  
 
   ##
-  
+  <div>
    <a href="https://git.io/streak-stats">
-  <img align="rigth" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=WannyMartins&theme=dark&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br" />
-</a>
+  <img align="rigth" width="560px" src="http://github-readme-streak-stats.herokuapp.com?user=WannyMartins&theme=dark&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br" />
+  </a>
+ <img align="rigth" alt="Meu Gif" height="220" style="border-radius:50px;" src="https://i.imgur.com/uxlL7qC.gif">
+</div>
 <br>
 <br>
 <div>
