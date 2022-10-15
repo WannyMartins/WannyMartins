@@ -22,8 +22,8 @@
  
  <div align="rigth">
   <a href="https://github.com/WannyMartins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WannyMartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WannyMartins&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WannyMartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WannyMartins&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
 </div>
   <div style="display: inline_block" ><br>
    <img align="center" alt="Github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40">
@@ -50,7 +50,7 @@
 
 
    <a href="https://git.io/streak-stats">
-  <img align="rigth" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=WannyMartins&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img align="rigth" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=WannyMartins&theme=dark&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br" />
 </a>
 <br>
 <br>
