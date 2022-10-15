@@ -19,7 +19,13 @@
    :arrow_right: Testes Automatizados com RTL<br>
    :arrow_right: Docker<br>
    :arrow_right: MySQL<br>
- 
+ __________________
+ <br>
+ <div>  
+  <a href = "mailto:wcatery@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wannymartins/?lipi=urn%3Ali%3Apage%3Aprofile_common_profile_index%3B51bb29a9-9dbc-4c00-9663-b1fb3de21360" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   </div>
+   <br>
  <div align="rigth">
   <a href="https://github.com/WannyMartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WannyMartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
@@ -42,13 +48,7 @@
    <img align="right" alt="Meu Gif" height="150" style="border-radius:50px;" src="https://i.imgur.com/uxlL7qC.gif">
 
   ##
-  <div>  
-  <a href = "mailto:wcatery@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wannymartins/?lipi=urn%3Ali%3Apage%3Aprofile_common_profile_index%3B51bb29a9-9dbc-4c00-9663-b1fb3de21360" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   </div>
-   <br>
-
-
+  
    <a href="https://git.io/streak-stats">
   <img align="rigth" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=WannyMartins&theme=dark&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br" />
 </a>
